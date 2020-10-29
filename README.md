@@ -1,4 +1,4 @@
-<img align="left" class="col-6" src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true&theme=vue-dark">
+<img align="left" width=400px src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true&theme=vue-dark">
 
 <img align="right" class="col-6" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypycode&count_private=true&layout=compact&theme=vue-dark">
 
