@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypycode&count_private=true&layout=compact">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=s3-music-server">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=zelle-python">
 
 <!--
 **drypycode/drypycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
