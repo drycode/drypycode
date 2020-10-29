@@ -1,10 +1,10 @@
-<img  align="left" width="48%" style="margin:1px 0px" src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true&theme=vue-dark">
+<img  align="left" width="45%" style="margin: auto;width: 50%;border: 3px solid green; padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true&theme=vue-dark">
 
-<img align="right" width="48%" style="margin:1px 0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypycode&count_private=true&layout=compact&theme=vue-dark">
+<img align="right" width="45%" style="margin:1px 0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypycode&count_private=true&layout=compact&theme=vue-dark">
 
-<img align="left" width="48%" style="margin:1px 0px" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=s3-music-server&theme=vue-dark">
+<img align="left" width="45%" style="margin:1px 0px" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=s3-music-server&theme=vue-dark">
 
-<img align="right" width="48%" style="1px 0px" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=zelle-python&theme=vue-dark">
+<img align="right" width="45%" style="1px 0px" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=zelle-python&theme=vue-dark">
 
 <!--
 **drypycode/drypycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
