@@ -1,10 +1,10 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true&theme=vue-dark">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypycode&count_private=true&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypycode&count_private=true&layout=compact&theme=vue-dark">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=s3-music-server">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=s3-music-server&theme=vue-dark">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=zelle-python">
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=zelle-python&theme=vue-dark">
 
 <!--
 **drypycode/drypycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
