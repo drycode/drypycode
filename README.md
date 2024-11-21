@@ -1,10 +1,10 @@
 |                                                                                                                                                                             |                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                <img  src="https://github-readme-stats.vercel.app/api?username=drypycode&count_private=true&theme=vue-dark">                                 |                  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypycode&count_private=true&layout=compact&theme=vue-dark">                  |
-| <a href="https://github.com/drypycode/s3-music-server"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=s3-music-server&theme=vue-dark"> | <a href="https://github.com/drypycode/port-scanner"> <img   src="https://github-readme-stats.vercel.app/api/pin/?username=drypycode&repo=port-scanner&theme=vue-dark"></a> |
+|                                <img  src="https://github-readme-stats.vercel.app/api?username=drycode&count_private=true&theme=vue-dark">                                 |                  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drycode&count_private=true&layout=compact&theme=vue-dark">                  |
+| 
 
 <!--
-**drypycode/drypycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drycode/drycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
